@@ -1,4 +1,4 @@
-## Component State
+## Local State
 
 ### React
 
