@@ -32,14 +32,6 @@ class Author {
   }
 }
 
-class Book {
-  var author: Author
-  
-  init(newAuthor: Author) {
-    author = newAuthor
-  }
-}
-
 var author = Author(first: "Paul", last: nil)
 
 // Swift forces optional chaining , will print nil
