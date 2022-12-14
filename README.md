@@ -10,4 +10,4 @@ Feel free to add more examples to the list opening a Pull Request...
 - [Local State](localState.md)
 - [HTTP Get Request](get.md)
 - [Optional Chaining](optionalChaining.md)
-- [Logging](loggind.md)
+- [Logging](logging.md)
