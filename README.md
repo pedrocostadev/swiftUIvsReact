@@ -6,8 +6,8 @@ Feel free to add more examples to the list opening a Pull Request...
 ## Table of Contents
 
 - [Components vs Views](components.md)
-- [Template & Multi-line Strings](templateStrings.md)
-- [Local State](localState.md)
 - [HTTP Get Request](get.md)
-- [Optional Chaining](optionalChaining.md)
+- [Local State](localState.md)
 - [Logging](logging.md)
+- [Optional Chaining](optionalChaining.md)
+- [Template & Multi-line Strings](templateStrings.md)
