@@ -7,6 +7,7 @@ Feel free to add more examples to the list opening a Pull Request...
 
 - [Components vs Views](components.md)
 - [HTTP Get Request](get.md)
+- [Inline Functions](inlineFunctions.md)
 - [Local State](localState.md)
 - [Logging](logging.md)
 - [Optional Chaining](optionalChaining.md)
