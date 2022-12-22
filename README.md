@@ -6,6 +6,7 @@ Feel free to add more examples to the list opening a Pull Request...
 ## Table of Contents
 
 - [Components vs Views](components.md)
+- [Context vs @EnvironmentObject](context.md)
 - [HTTP Get Request](get.md)
 - [Inline Functions](inlineFunctions.md)
 - [Local State](localState.md)
