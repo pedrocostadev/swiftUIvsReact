@@ -1,7 +1,7 @@
 ## HTTP Get Request
 
 
-### JavaScript
+### React
 
 ```javascript
 

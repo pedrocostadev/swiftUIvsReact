@@ -5,7 +5,7 @@ pieces of code that represent a specific part of the UI. These components can be
 create complex and dynamic user interfaces.
 
 
-### JavaScript
+### React
 
 ```javascript
 
