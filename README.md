@@ -10,6 +10,7 @@ Feel free to add more examples to the list opening a Pull Request...
 - [HTTP Get Request](get.md)
 - [Inline Functions](inlineFunctions.md)
 - [Local State](localState.md)
+- [Local & Session Storage vs @AppStorage & @SceneStorage](localStorage.md)
 - [Logging](logging.md)
 - [Optional Chaining](optionalChaining.md)
 - [Template & Multi-line Strings](templateStrings.md)
