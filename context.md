@@ -58,6 +58,21 @@ struct ContentView: View {
   }
 }
 
+```
+
+To inject the loginStatus object into the environment, you need to pass it to the ContentView when you create it. For example:
+    
+```swift
+
+  struct SomeView: View {
+
+    @StateObject private var loginStatus = LoginStatus()
+
+    var body: some View {
+      ContentView()
+        .environmentObject(loginStatus)
+    }
+  }
 
 ```
 
