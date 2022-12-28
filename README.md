@@ -5,6 +5,7 @@ Feel free to add more examples to the list opening a Pull Request...
 
 ## Table of Contents
 
+- [Buttons](buttons.md)
 - [Components vs Views](components.md)
 - [Context vs @EnvironmentObject](context.md)
 - [HTTP Get Request](get.md)
